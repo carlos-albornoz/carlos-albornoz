@@ -16,7 +16,7 @@ Apasionado por transformar datos complejos en soluciones estratégicas de negoci
 
 ### 📌 Proyectos Destacados
 
-* **[FerreMax - System & Database Architecture](./ferremax):** Sistema de gestión comercial e inventario en VB.NET y SQL Server con modelos relacionales y reportes analíticos.
+* **[SistemaVentasFerreteria]:** Sistema de gestión comercial e inventario en VB.NET y SQL Server con modelos relacionales y reportes analíticos.
 * **[Data & BI Portfolio](./data-projects):** Proyectos de limpieza, transformación y visualización de datos cuantitativos.
 
 ---
